@@ -56,8 +56,6 @@ public class OrigenDatos {
 
         Tarjeta siete = new Tarjeta();
         siete.setNombre("EL Bronco");
-        siete.setEdad(50);
-        siete.setDescripcion("Quiere mocharle las manos a los rateros y es mentiroso");
         siete.setImagen(0);
         datos.add(siete);
 
